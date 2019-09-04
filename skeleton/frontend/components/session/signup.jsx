@@ -26,7 +26,7 @@ class Signup extends React.Component {
 
     render() {
         return (
-        <div classname="session-form">
+        <div className="session-form">
             <h2>Sign Up!</h2>
             <form action="">
                 <label >Username:
